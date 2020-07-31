@@ -1,7 +1,3 @@
-
-
-
-
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
 
@@ -34,13 +30,6 @@ BACKGROUND*/
   background: -o-linear-gradient(bottom, #54B2F8 0%, #54B2F8 100%);
   background: linear-gradient(to top, #54B2F8 0%, #54B2F8 100%);
 }
-/* .bg-gra-02 {
-  background: -webkit-gradient(linear, left bottom, left top, from(#3868CD), to(#3868CD));
-  background: -webkit-linear-gradient(bottom, #3868CD 0%, #3868CD 80%);
-  background: -moz-linear-gradient(bottom, #3868CD 0%, #3868CD 80%);
-  background: -o-linear-gradient(bottom, #3868CD 0%, #3868CD 80%);
-  background: linear-gradient(to top, #3868CD 0%, #3868CD 80%);
-} */
 
 
 /*//////////////////////////////////////////////////////////////////
